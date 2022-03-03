@@ -1,6 +1,6 @@
 # Hello_World
 
-## Header
+## Description
 
 Two characteristics of mine that have impacted me throughout my life have always been adaptability and integrity. These traits have shined through everything I 
 do from accepting different job positions to going on service trips around the world. As I continue my education at the University of Iowa as a third-year 
