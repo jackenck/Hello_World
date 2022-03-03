@@ -1,5 +1,7 @@
 # Hello_World
 
+Introduction Repository 
+
 Two characteristics of mine that have impacted me throughout my life have always been adaptability and integrity. These traits have shined through everything I 
 do from accepting different job positions to going on service trips around the world. As I continue my education at the University of Iowa as a third-year 
 Business Analytics and Information Systems student, I am striving to enhance my understanding of the business field and how to set myself up to excel in it.
