@@ -20,8 +20,12 @@ To run a program click on the link [MyUI](https://myui.uiowa.edu)
 
 ## Files Used
 
+There should not be any files used
+
 ## Additional Documenation
+
+>No additional documents necessary
 
 ## Version/Adjustments
   
-Were there any adjustments 
+Were there any adjustments and a specific version used?
